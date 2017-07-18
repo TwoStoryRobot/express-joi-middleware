@@ -1,7 +1,7 @@
 {
   "name": "@twostoryrobot/express-joi-middleware",
   "version": "1.0.0",
-  "description": "",
+  "description": "Middleware to validate Joi schema",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/TwoStoryRobot/express-joi-middleware.git"
   },
-  "author": "Chad Fawcett <me@chadf.ca>",
+  "author": "Chris Foster <chris.james.foster@gmail.com>",
   "license": "UNLICENSED",
   "dependencies": {
     "joi": "^10.6.0"

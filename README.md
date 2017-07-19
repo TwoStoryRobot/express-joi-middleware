@@ -69,4 +69,4 @@ npm install @twostoryrobot/express-joi-middleware
 
 ## License
 
-Unlicensed
+MIT

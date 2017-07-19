@@ -21,6 +21,7 @@ const bodySchema = Joi.object().keys({
   password: Joi.string().min(4).required()
 })
 
+app.use(bodyParser.json())
 app.get('/user', validate.query(querySchema), getUser)
 app.post('/user', validate.body(bodySchema), postUser)
 ```

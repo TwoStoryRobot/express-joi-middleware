@@ -1,6 +1,6 @@
 {
   "name": "@twostoryrobot/express-joi-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middleware to validate Joi schema",
   "main": "index.js",
   "scripts": {
